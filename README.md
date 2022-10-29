@@ -1,6 +1,12 @@
 # flutter_news_app
 
-A new Flutter project.
+Flutter project.
+
+- Fetch data from a Newsapi org (API) with flutter
+- How useState in a flutter app
+- How to pass down data on widgets
+- How to show a webview in flutter
+- How to build complex UI's in flutter
 
 ## Getting Started
 
