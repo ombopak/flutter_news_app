@@ -36,6 +36,7 @@ migrate_working_dir/
 /macos
 /web
 /test
+/lib/api.dart
 
 # Symbolication related
 app.*.symbols
