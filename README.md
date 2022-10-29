@@ -1,12 +1,19 @@
 # flutter_news_app
 
-Flutter project.
-
 - Fetch data from a Newsapi org (API) with flutter
 - How useState in a flutter app
 - How to pass down data on widgets
 - How to show a webview in flutter
 - How to build complex UI's in flutter
+
+<img src="https://user-images.githubusercontent.com/74084664/198826462-088b26d4-ffd9-4def-8a5e-11c850a478ab.jpeg" width=200px height=300px>
+
+<img src="https://user-images.githubusercontent.com/74084664/198826464-94f65a72-9958-4abe-81ad-f3d255a27770.jpeg" width=200px height=300px>
+
+<img src="https://user-images.githubusercontent.com/74084664/198826465-e75c91f7-0a15-454b-a480-776a3033e54f.jpeg" width=200px height=300px>
+
+
+
 
 ## Getting Started
 
